@@ -15,5 +15,5 @@
 ```
 
 ### Resource
-- (https://docs.python.org/3.6/reference/lexical_analysis.html#f-strings)[https://docs.python.org/3.6/reference/lexical_analysis.html#f-strings]
-- (https://matthew-brett.github.io/teaching/string_formatting.html)[https://matthew-brett.github.io/teaching/string_formatting.html]
+- [Inserting values into strings](https://docs.python.org/3.6/reference/lexical_analysis.html#f-strings)
+- [string — Common string operations](https://matthew-brett.github.io/teaching/string_formatting.html)
