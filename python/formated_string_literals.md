@@ -12,6 +12,7 @@
 >>> name = "Fred"
 >>> f"He said his name is {name}."
 "He said his name is 'Fred'."
+```
 
 ### Resource
 - (https://docs.python.org/3.6/reference/lexical_analysis.html#f-strings)[https://docs.python.org/3.6/reference/lexical_analysis.html#f-strings]
