@@ -10,7 +10,7 @@
 <details>
 <summary>What are the only two values does Boolean have?</summary> 
 
-- ture
+- truee
 - false
 </details>	
 
@@ -106,6 +106,7 @@
 >
 >- Continue Statements
 >	- when program execution reaches a continue statement, the program execution immediately jumps back to the start of the loop
+>- sys.exit()
 
 > ## Note
 >- 0, 0.0, '' = false
@@ -125,3 +126,22 @@
 		for i in range(5):
 			print('Jimmy Five times (' +str(i) + ')')
 ```
+- Range()
+	- Three arguements
+		- Start
+		- Stop
+		- Step Arguement
+
+## Importing Modules
+- Built In Functions
+	- Basic Functions
+- Standard Library
+	- Python comes with this library
+- each module is a Python program that contains related group of functions that can be embedded in your programs
+- before you can use, you need to import:
+	- The import Keyword
+	- the name of the module
+	- Optionaly, more module names, seperated with comas
+
+	> Notes
+	> Dont Overwrite Module Names
